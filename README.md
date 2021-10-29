@@ -1,6 +1,6 @@
 # Hepsiburada-Product-Cards
 
-#Demo = > https://hepsiburada-product-cards.vercel.app/
+<a href="https://hepsiburada-product-cards.vercel.app/" target="_blank">🔥 Demo</a>
 
 Used technologies;
 
