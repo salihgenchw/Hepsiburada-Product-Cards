@@ -2,6 +2,10 @@
 
 <a href="https://hepsiburada-product-cards.vercel.app/" target="_blank">🔥 Demo</a>
 
+
+![image](https://user-images.githubusercontent.com/57057605/139475429-1a595426-524e-47cc-9d61-4cf6c517a82b.png)
+
+
 Used technologies;
 
 <p float="left">
