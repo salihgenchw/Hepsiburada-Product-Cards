@@ -3,7 +3,7 @@
 <a href="https://hepsiburada-product-cards.vercel.app/" target="_blank">🔥 Demo</a>
 
 
-<img src="https://user-images.githubusercontent.com/57057605/139476178-f0e4bfa8-25d2-4cf5-950e-552d82d7fb99.gif" width="400" />
+<img src="https://user-images.githubusercontent.com/57057605/139476178-f0e4bfa8-25d2-4cf5-950e-552d82d7fb99.gif" width="600" />
 
 
 Used technologies;
